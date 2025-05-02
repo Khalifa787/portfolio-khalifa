@@ -96,13 +96,6 @@ The project is configured through several key files:
 - `tsconfig.json`: TypeScript configuration
 - `tailwind.config.js`: Tailwind CSS configuration
 
-## 🚀 Deployment
-
-The project is configured for deployment on Vercel. To deploy:
-
-1. Push your changes to your GitHub repository
-2. Connect your repository to Vercel
-3. Vercel will automatically deploy your site
 
 ## 📝 License
 
@@ -113,10 +106,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Inspired by macOS terminal interface
 - Built with modern web technologies
 - Thanks to all contributors and maintainers of the open-source tools used in this project
-
-## 📞 Contact
-
-For questions or support, please open an issue on GitHub.
-
-Original version made with ❤️ in Austin, TX by Johnny Culbreth
-Modified with ❤️ in Giza, Egypt by aabdoo23
