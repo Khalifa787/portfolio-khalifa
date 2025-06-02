@@ -37,7 +37,7 @@ export default function ResumeViewer({ isOpen, onClose }: ResumeViewerProps) {
       <div className="h-full bg-white">
         <iframe
           ref={iframeRef}
-          src="https://drive.google.com/drive/u/0/folders/1mH8ChpS-Mn1CbFC5PoV46vr0Ws2NMaqB"
+          src="https://drive.google.com/file/d/164IALX85IsWrC_d7OEG9vrnjQHmdmBr1/view?usp=sharing"
           title="CV de Khalifa Mebarki"
           width="100%"
           height="100%"
