@@ -82,7 +82,7 @@ export default function MacToolbar({
       {
         label: 'Voir le CV',
         icon: <IoDocumentText size={16} />, 
-        action: () => window.open("https://drive.google.com/file/d/1H8PlS21D4yqX18w0QWUUN7HBypJNP6Q8/view", '_blank'),
+        action: () => window.open("https://drive.google.com/file/d/164IALX85IsWrC_d7OEG9vrnjQHmdmBr1/view", '_blank'),
       },
       {
         label: 'Mes projets',
