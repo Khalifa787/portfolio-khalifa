@@ -99,15 +99,15 @@ export const userConfig = {
             title: "Assistant Responsable Informatique (Stage)",
             company: "Auchan Taverny",
             location: "Val-d’Oise (95)",
-            period: "fev. 2025 - Aout 2025",
+            period: "Janv. 2025 - Juin 2025",
             description: "Sécurisation des équipements, configuration réseau et équipements de sécurité.",
             technologies: ["Réseaux", "Sécurité des End-users", "Routeurs", "Commutateurs"]
         },
         {
-            title: "Chargé de sécurité informatique (Stage)",
+            title: "Assistant cybersécurité (Stage)",
             company: "Antenne Consommateur",
             location: "Cergy (95)",
-            period: "fev. 2021 - Aout 2021",
+            period: "Janv. 2021 - Juin 2021",
             description: "Gestion des incidents de sécurité, mise en place de solutions, rédaction de rapports.",
             technologies: ["Sécurité", "Audit", "Correctifs"]
         },
