@@ -73,7 +73,7 @@ const NotesApp = ({ isOpen, onClose }: NotesAppProps) => {
         }
     ];
 
-    const activities = userConfig.hobbies || [];
+    const activities = userConfig.hobbies || []; 
 
     const getWindowTitle = () => {
         switch (activeSection) {
